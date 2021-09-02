@@ -1,0 +1,31 @@
+{
+  "id": 1,
+  "flight_name": "abc",
+  "passenger": [
+    {
+      "id": 1,
+      "checked_bags": 2,
+      "gender": "F"
+    },
+    {
+      "id": 2,
+      "checked_bags": 1,
+      "gender": "M"
+    },
+    {
+      "id": 3,
+      "checked_bags": 2,
+      "gender": "F"
+    },
+    {
+      "id": 4,
+      "checked_bags": 2,
+      "gender": "F"
+    },
+    {
+      "id": 5,
+      "checked_bags": 2,
+      "gender": "F"
+    }
+  ]
+}

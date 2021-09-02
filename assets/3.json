@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "name": "abc",
+  "property": {
+    "width": 5.0,
+    "height": 10.0
+  }
+}
